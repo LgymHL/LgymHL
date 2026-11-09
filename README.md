@@ -30,7 +30,7 @@
 <tr>
 <td valign="top">
 
-Eu sou o **Gabriel**, estudante de **Análise e Desenvolvimento de Sistemas** na **CEUMA**, em São Luís. Moro em **Anajatuba, Maranhão**.
+Eu sou o **Gabriel**, estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade CEUMA**, em São Luís. Moro em **Anajatuba, Maranhão**.
 
 Gosto de transformar o que aprendo em aula em projetos que funcionam de verdade, e é por isso que o meu portfólio e a minha Pokédex estão publicados e podem ser abertos direto no navegador.
 
