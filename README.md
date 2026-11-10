@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="arte-banner.svg" alt="Banner" width="100%">
+<img src="slide.png" alt="Banner" width="100%">
 
 <br>
 
