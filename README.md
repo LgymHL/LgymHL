@@ -7,15 +7,13 @@
 
 <div align="center">
 
-<img src="slide.png" alt="Banner" width="100%">
+<img src="slide 1.svg" alt="Banner" width="100%">
 
 <br>
 
 <b>Estudante de ADS na CEUMA · HTML · CSS · JavaScript · Python · Buscando meu primeiro estágio</b>
 
 <br><br>
-
-![Visualizações](https://komarev.com/ghpvc/?username=LgymHL&label=Visualizações&color=7c5cff&style=flat)
 
 </div>
 
