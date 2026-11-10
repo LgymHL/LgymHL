@@ -1,22 +1,19 @@
 <!--
-  COMO SUBSTITUIR AS IMAGENS
-  Procure por "TROQUE" neste arquivo. Cada quadrado cinza é uma imagem de marcação.
-  Troque o endereço dentro de src="..." pelo caminho da sua arte, por exemplo:
-  src="assets/banner.gif"   (depois de subir o arquivo na pasta assets do repositório)
+  COMO SUBSTITUIR AS IMAGENS QUE FALTAM
+  Procure por "TROQUE" neste arquivo. Os quadrados cinza dos prints dos projetos
+  ainda são de marcação. Troque o endereço dentro de src="..." pelo da sua imagem,
+  por exemplo: src="print-portfolio.png" (depois de subir o arquivo no repositório).
 -->
 
 <div align="center">
 
-<!-- TROQUE: banner do topo (sugestão: 1200x300, pixel art) -->
-<img src="https://placehold.co/1200x300/1b1b2f/7c5cff?text=BANNER+PIXEL+ART+(1200x300)" alt="Banner" width="100%">
+<img src="arte-banner.svg" alt="Banner" width="100%">
 
 <br>
 
-<a href="https://github.com/LgymHL">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=7C5CFF&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+o+Gabriel!;Estudante+de+ADS+na+CEUMA;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Buscando+meu+primeiro+estágio" alt="Texto animado">
-</a>
+<b>Estudante de ADS na CEUMA · HTML · CSS · JavaScript · Python · Buscando meu primeiro estágio</b>
 
-<br>
+<br><br>
 
 ![Visualizações](https://komarev.com/ghpvc/?username=LgymHL&label=Visualizações&color=7c5cff&style=flat)
 
@@ -30,7 +27,7 @@
 <tr>
 <td valign="top">
 
-Eu sou o **Gabriel**, estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade CEUMA**, em São Luís. Moro em **Anajatuba, Maranhão**.
+Eu sou o **Gabriel**, estudante de **Análise e Desenvolvimento de Sistemas** na **CEUMA**, em São Luís. Moro em **Anajatuba, Maranhão**.
 
 Gosto de transformar o que aprendo em aula em projetos que funcionam de verdade, e é por isso que o meu portfólio e a minha Pokédex estão publicados e podem ser abertos direto no navegador.
 
@@ -44,8 +41,7 @@ Tenho curiosidade por:
 </td>
 <td align="center" width="240">
 
-<!-- TROQUE: ilustração ao lado do texto (quadrado, sugestão: 200x200) -->
-<img src="https://placehold.co/200x200/1b1b2f/7c5cff?text=IMAGEM" alt="Ilustração" width="200">
+<img src="arte-1.svg" alt="Ilustração" width="200">
 
 </td>
 </tr>
@@ -72,24 +68,11 @@ Tenho curiosidade por:
 </td>
 <td align="center" width="240">
 
-<!-- TROQUE: ilustração do status (quadrado, sugestão: 200x200) -->
-<img src="https://placehold.co/200x200/1b1b2f/7c5cff?text=IMAGEM" alt="Ilustração" width="200">
+<img src="arte-2.svg" alt="Ilustração" width="200">
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LgymHL&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LgymHL&theme=radical&hide_border=true" alt="Sequência" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LgymHL&layout=compact&theme=radical&hide_border=true" alt="Linguagens" height="170">
-
-</div>
 
 ---
 
@@ -187,7 +170,6 @@ Consome a PokéAPI e a ViaCEP, com validação por regex, `async/await` e tratam
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-p-43213a3b0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmarinhopaiva325@gmail.com)
 
-<!-- TROQUE: imagem final de rodapé (quadrado, sugestão: 150x150) -->
-<img src="https://placehold.co/150x150/1b1b2f/7c5cff?text=IMAGEM" alt="Ilustração" width="150">
+<img src="arte-3.svg" alt="Ilustração" width="150">
 
 </div>
