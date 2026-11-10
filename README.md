@@ -39,7 +39,7 @@ Tenho curiosidade por:
 </td>
 <td align="center" width="240">
 
-<img src="arte-1.svg" alt="Ilustração" width="200">
+<img src="slide 2.svg" alt="Ilustração" width="200">
 
 </td>
 </tr>
@@ -66,7 +66,7 @@ Tenho curiosidade por:
 </td>
 <td align="center" width="240">
 
-<img src="arte-2.svg" alt="Ilustração" width="200">
+<img src="slide 3.svg" alt="Ilustração" width="200">
 
 </td>
 </tr>
@@ -168,6 +168,6 @@ Consome a PokéAPI e a ViaCEP, com validação por regex, `async/await` e tratam
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-p-43213a3b0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmarinhopaiva325@gmail.com)
 
-<img src="arte-3.svg" alt="Ilustração" width="150">
+<img src="slide 4.svg" alt="Ilustração" width="150">
 
 </div>
